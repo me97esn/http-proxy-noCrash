@@ -4,8 +4,6 @@ require('colors');
 
 module.exports = {
 	web: function(req, res, options) {
-		console.log('Proxying using noCrash');
-
 		proxy.web(req, res, options, function(error){
 			console.log('An error occurred while proxying: '.redBG, error.message);
 			res.status(500);
