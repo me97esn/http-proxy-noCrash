@@ -12,7 +12,7 @@ var httpProxy = require('http-proxy');
 var proxy = httpProxy.createProxyServer();
 ```
 
-write this instead:
+write this:
 
 ```javascript
 var proxy = require('http-proxy-noCrash');
