@@ -9,9 +9,11 @@ To use this, instead of:
 
 ```javascript
 var httpProxy = require('http-proxy');
-var proxy = httpProxy.createProxyServer();```
+var proxy = httpProxy.createProxyServer();
+```
 
 write this instead:
+
 ```javascript
 var proxy = require('http-proxy-noCrash');
 ```
