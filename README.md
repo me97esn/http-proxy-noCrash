@@ -7,13 +7,13 @@ This wrapper solves the problem when the endpoint doesn't reply, which causes no
 
 To use this, instead of:
 
-'''javascript
+```javascript
 var httpProxy = require('http-proxy');
-var proxy = httpProxy.createProxyServer();'''
+var proxy = httpProxy.createProxyServer();```
 
 write this instead:
-'''javascript
+```javascript
 var proxy = require('http-proxy-noCrash');
-'''
+```
 
 
