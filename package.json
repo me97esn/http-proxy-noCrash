@@ -1,0 +1,19 @@
+{
+  "name": "http-proxy-noCrash",
+  "version": "0.0.0",
+  "description": "http-proxy-noCrash ==================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/me97esn/http-proxy-noCrash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me97esn/http-proxy-noCrash/issues"
+  },
+  "homepage": "https://github.com/me97esn/http-proxy-noCrash"
+}
