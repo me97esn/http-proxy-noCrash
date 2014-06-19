@@ -1,5 +1,5 @@
 {
-  "name": "http-proxy-noCrash",
+  "name": "http-proxy-nocrash",
   "version": "0.0.0",
   "description": "http-proxy-noCrash ==================",
   "main": "index.js",
