@@ -1,7 +1,7 @@
 {
   "name": "http-proxy-nocrash",
-  "version": "0.1.1",
-  "description": "A small wrapper on top of http-proxy, handles non responding targets.",
+  "version": "0.1.2",
+  "description": "Handles non responding targets, wrapping http-proxy",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
