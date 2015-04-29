@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/me97esn/http-proxy-noCrash",
   "dependencies": {
-    "http-proxy": "~1.2.0",
+    "http-proxy": "1.11.1",
     "colors": "~0.6.2"
   }
 }
